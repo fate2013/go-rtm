@@ -6,9 +6,9 @@ package servergated
 import (
 	"bytes"
 	"fmt"
-	"fate2013/go-rtm/fp1225"
+	"github.com/fate2013/go-rtm/fp1225"
 	"git.apache.org/thrift.git/lib/go/thrift"
-	"fate2013/go-rtm/rtmcommon"
+	"github.com/fate2013/go-rtm/rtmcommon"
 )
 
 // (needed to ensure safety because of naive import list construction.)
